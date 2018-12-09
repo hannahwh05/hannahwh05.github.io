@@ -1,4 +1,4 @@
-#### Practicals:
+## Practicals:
 
 | *No.* | *Practical*            | 
 | ------|:--------------------:| 
