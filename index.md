@@ -1,6 +1,7 @@
-# GEOG5990M Programming for Geographical Information Analysis: Core Skills - _Assessment 1: Online Portfolio_
+# **GEOG5990M Programming for Geographical Information Analysis: Core Skills**
 ### **[Hannah Wheldon](https://github.com/hannahwh05)** - **201284811** Username: [hannahwh05](https://github.com/hannahwh05)
 ---
+## Assessment 1: Online Portfolio
 
 #### Assessment Outline:
 
@@ -10,7 +11,7 @@ For a formal module description follow this link: [http://webprod3.leeds.ac.uk/c
 
 On this website you will find links to my [repository](https://github.com/hannahwh05/GEOG5990M_Programming), which includes code for the [final agent based model](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/ABM_Final) , [documentation](https://github.com/hannahwh05/GEOG5990M_Programming/blob/master/README.md) as well as directories for Practicals 1-9: (outlined below), for each weeks code. 
 
-#### Model Concept :sheep: :herb: : 
+#### Model Concept: :sheep: :herb: 
 
 The idea of this model is to imagine that the agents are like sheep. These sheep walk around the environment randomly and graze as if it is grass, adding to their "stores".
 
@@ -27,7 +28,7 @@ The idea of this model is to imagine that the agents are like sheep. These sheep
 You can access the final code and further information about the project on my GitHub repository.
 GEOG5990M Repository: https://github.com/hannahwh05/GEOG5990M_Programming
 
-#### [Practicals:]
+#### Practicals:
 
 | *No.* | *Practical*            | 
 | ------|:--------------------:| 
