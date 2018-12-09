@@ -1,12 +1,9 @@
-theme: jekyll-theme-minimal
-
-avatar: "hannahwh05.github.io/images/43998956.jpg"
+logo: "hannahwh05.github.io/images/43998956.jpg"
 
 share-links-active:
-  twitter: false
-  facebook: false
-  google: false
   linkedin: true
+
+theme: jekyll-theme-minimal
 
 plugins:
   - jemoji
