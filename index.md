@@ -9,7 +9,7 @@ As part of my MSc Geographical Information Systems at  University of Leeds, I am
 
 For a formal module description follow this link: [http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?F=P&M=GEOG-5990M]
 
-On this website you will find links to my [repository](https://github.com/hannahwh05/GEOG5990M_Programming), which includes code for the [final agent based model](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/ABM_Final) , [documentation](https://github.com/hannahwh05/GEOG5990M_Programming/blob/master/README.md) as well as directories for Practicals 1-9: (outlined below), for each weeks code. 
+On this website you will find links to my [repository](https://github.com/hannahwh05/GEOG5990M_Programming), which includes code for the [final agent based model](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/ABM_Final) , [documentation](https://github.com/hannahwh05/GEOG5990M_Programming/blob/master/README.md) as well as directories for [Practicals 1-9](https://hannahwh05.github.io/index2) for each weeks code. 
 
 #### Model Concept: :sheep: :herb: 
 
@@ -27,21 +27,3 @@ The idea of this model is to imagine that the agents are like sheep. These sheep
 
 You can access the final code and further information about the project on my GitHub repository.
 GEOG5990M Repository: https://github.com/hannahwh05/GEOG5990M_Programming
-
-
-[https://hannahwh05.github.io/index2]
-      
-#### Practicals:
-
-| *No.* | *Practical*            | 
-| ------|:--------------------:| 
-| 1     | [ABM](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical1_ABM)                  |
-| 2     | [Code Shrinking I](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical2_Code_shrinking_I)     |
-| 3     | [Code Shrinking II](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical3_Code_shrinking_II)    |
-| 4     | [Building Tools](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical4_Building_tools)       |
-| 5     | [Agents!](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical5_Agents!)              |
-| 6     | [I/O](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical6_IO)                  |
-| 7     | [Communication](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical7_Communication)        |
-| 8     | [Animation Behaviour](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical8_Animation_Behaviour)  |
-| 9     | [GUI/Web Scraping](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical8_Animation_Behaviour)     |
-
