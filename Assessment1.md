@@ -1,4 +1,8 @@
+# **GEOG5990M Programming for Geographical Information Analysis: Core Skills**
+### **[Hannah Wheldon](https://github.com/hannahwh05)** - **201284811** Username: [hannahwh05](https://github.com/hannahwh05)
+
 ## Assessment 1: Online Portfolio
+---
 
 #### Assessment Outline:
 
