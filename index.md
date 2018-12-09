@@ -1,6 +1,6 @@
 # **GEOG5990M Programming for Geographical Information Analysis: Core Skills**
 ### **[Hannah Wheldon](https://github.com/hannahwh05)** - **201284811** Username: [hannahwh05](https://github.com/hannahwh05)
-![LinkedIn_Logo](https://github.com/hannahwh05/hannahwh05.github.io/images/LinkedIn_Logo) LinkedIn: <https://www.linkedin.com/in/hannah-wheldon>
+![LinkedIn_Logo](https://github.com/hannahwh05/hannahwh05.github.io/images/LinkedIn_Logo) <https://www.linkedin.com/in/hannah-wheldon>
 
 
 ---
