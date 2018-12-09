@@ -28,6 +28,9 @@ The idea of this model is to imagine that the agents are like sheep. These sheep
 You can access the final code and further information about the project on my GitHub repository.
 GEOG5990M Repository: https://github.com/hannahwh05/GEOG5990M_Programming
 
+
+[hannahwh05.github.io/index2.md]
+      
 #### Practicals:
 
 | *No.* | *Practical*            | 
