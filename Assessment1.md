@@ -12,6 +12,6 @@ For a formal module description follow this link: http://webprod3.leeds.ac.uk/ca
 
 On this website you will find links to my [repository](https://github.com/hannahwh05/GEOG5990M_Programming), which includes code for the [final agent based model](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/ABM_Final) , [documentation](https://github.com/hannahwh05/GEOG5990M_Programming/blob/master/README.md) as well as directories for [Practicals 1-9](https://hannahwh05.github.io/index2) for each weeks code. 
 
-[> The Model](https://hannahwh05.github.io/model)
+   [> The Model](https://hannahwh05.github.io/model)
 
-[> Practicals](https://hannahwh05.github.io/Practicals)
+   [> Practicals](https://hannahwh05.github.io/Practicals)
