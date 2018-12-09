@@ -10,7 +10,6 @@ Here, you'll find links to my GitHub repositories and code for Assessments.
 
 Follow the links below to see more information.
 
-* [Assessment 1](https://hannahwh05.github.io/Assessment1)
-  * [The Model](https://hannahwh05.github.io/model)
-  * [Practicals](https://hannahwh05.github.io/Practicals)
-
+* ### [Assessment 1](https://hannahwh05.github.io/Assessment1)
+  * ### [The Model](https://hannahwh05.github.io/model)
+  * ### [Practicals](https://hannahwh05.github.io/Practicals)
