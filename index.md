@@ -29,7 +29,7 @@ You can access the final code and further information about the project on my Gi
 GEOG5990M Repository: https://github.com/hannahwh05/GEOG5990M_Programming
 
 
-[hannahwh05.github.io/index2.md]
+[https://hannahwh05.github.io/index2]
       
 #### Practicals:
 
