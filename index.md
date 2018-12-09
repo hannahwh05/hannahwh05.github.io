@@ -8,7 +8,7 @@ As part of my MSc Geographical Information Systems at  University of Leeds, I am
 
 For a formal module description follow this link: http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?F=P&M=GEOG-5990M
 
-On this website you will find links to my [repository](https://github.com/hannahwh05/GEOG5990M_Programming), which includes code for the [final agent based model](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/ABM_Final) , [documentation](https://github.com/hannahwh05/GEOG5990M_Programming/blob/master/README.md) as well as directories for Practicals 1-9 (outlined below), for each weeks code. 
+On this website you will find links to my [repository](https://github.com/hannahwh05/GEOG5990M_Programming), which includes code for the [final agent based model](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/ABM_Final) , [documentation](https://github.com/hannahwh05/GEOG5990M_Programming/blob/master/README.md) as well as directories for [Practicals 1-9:] (outlined below), for each weeks code. 
 
 #### Model Concept: 
 
@@ -27,7 +27,7 @@ The idea of this model is to imagine that the agents are like sheep. These sheep
 You can access the final code and further information about the project on my GitHub repository.
 GEOG5990M Repository: https://github.com/hannahwh05/GEOG5990M_Programming
 
-#### Practicals:
+#### [Practicals:]
 
 | *No.* | *Practical*            | 
 | ------|:--------------------:| 
