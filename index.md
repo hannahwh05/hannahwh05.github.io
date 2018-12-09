@@ -6,6 +6,6 @@
 
 Hi, I'm Hannah Wheldon and I'm doing my MSc Geographical Information Systems at University of Leeds. 
 
-![Profile_Picture]("\\ds.leeds.ac.uk\student\student13\gy18hoae\My Pictures\43998956.jpg")
+![Profile_Picture]("M:\My Pictures\43998956.jpg")
 
 [https://github.com/hannahwh05]
