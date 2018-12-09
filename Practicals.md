@@ -16,5 +16,6 @@
 | 8     | [Animation Behaviour](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical8_Animation_Behaviour)  |
 | 9     | [GUI/Web Scraping](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical8_Animation_Behaviour)     |
 
+<-- [Assessment 1](https://hannahwh05.github.io/Assessment1)
 
-[> The Model](https://hannahwh05.github.io/model)
+<-- [The Model](https://hannahwh05.github.io/model)
