@@ -15,3 +15,6 @@
 | 7     | [Communication](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical7_Communication)        |
 | 8     | [Animation Behaviour](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical8_Animation_Behaviour)  |
 | 9     | [GUI/Web Scraping](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/Practical8_Animation_Behaviour)     |
+
+
+[> The Model](https://hannahwh05.github.io/model)
