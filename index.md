@@ -7,11 +7,7 @@
 GEOG5990M Repository: https://github.com/hannahwh05/GEOG5990M_Programming
 
 This includes code for the [final agent based model](https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/ABM_Final) , 
-as well as Practicals 1-9 (outlined below), and documentation. 
-
-_Final ABM_: https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/ABM_Final
-
-_Documentation_: https://github.com/hannahwh05/GEOG5990M_Programming/blob/master/README.md
+as well as Practicals 1-9 (outlined below), and [documentation](https://github.com/hannahwh05/GEOG5990M_Programming/blob/master/README.md). 
 
 | *No.* | *Practical*            | 
 | ------|:--------------------:| 
