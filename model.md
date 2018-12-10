@@ -10,7 +10,7 @@ The idea of this model is to imagine that the agents are like sheep. These sheep
 
 #### Model Notes:
 
-* The environment is altered by the agents as they eat their way around.
+* As the agents eat their way around, the environment is altered.
 * The agents know that they are not alone in the model and can interact and share their food stores.
 * If an agent is in the way of another, it will move around the environment, and not on top of the other agent.
 * Each agent has a data store capacity of 1000, if it consumes any more data it will vomit, depositing all of its data stores.
