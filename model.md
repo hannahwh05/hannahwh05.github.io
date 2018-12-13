@@ -18,11 +18,13 @@ The idea of this model is to imagine that the agents are like sheep. These sheep
 
 ![Run model](hannahwh05.github.io/images/ABM_Menu.PNG)
 
+<br/>
 
 * The animation will then run until the stopping condition is met.
 
 ![Model end](hannahwh05.github.io/images/ABM_Run.PNG)
 
+<br/>
 
 #### The Model Code: 
 
