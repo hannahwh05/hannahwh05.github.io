@@ -29,7 +29,7 @@ The idea of this model is to imagine that the agents are like sheep. These sheep
 #### The Model Code: 
 
 You can access the final code and further information about the project on my GitHub repository.
-GEOG5990M Repository: (https://github.com/hannahwh05/GEOG5990M_Programming)
+GEOG5990M Repository: <https://github.com/hannahwh05/GEOG5990M_Programming>
 
 
 ---
