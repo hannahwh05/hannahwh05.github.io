@@ -4,4 +4,5 @@ Webiste is published with Jekyll using Minimal theme:
 https://pages-themes.github.io/minimal/
 
 Minimal theme repository: https://github.com/pages-themes/minimal
+
 Licence: https://github.com/pages-themes/minimal/blob/master/LICENSE
