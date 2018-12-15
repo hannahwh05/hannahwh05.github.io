@@ -29,6 +29,8 @@ The idea of this model is to imagine that the agents are like sheep. These sheep
 #### The Model Code: 
 
 You can access the final code and further information about the project on my GitHub repository.
+
+Final Model code: <https://github.com/hannahwh05/GEOG5990M_Programming/tree/master/ABM_Final>
 GEOG5990M Repository: <https://github.com/hannahwh05/GEOG5990M_Programming>
 
 
