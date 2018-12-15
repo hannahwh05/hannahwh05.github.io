@@ -3,6 +3,8 @@
 ---
 ## Practicals:
 ---
+The practicals below were built upon and refined, week by week, to produce the final Model. 
+
 
 | *No.* | *Practical*            | 
 | ------|:--------------------:| 
