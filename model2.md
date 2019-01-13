@@ -47,3 +47,11 @@ Certain elements within the model and framework can be changed to suit the user:
   * The “randomness” variable on line 156 of the DrunkModel.py where, randomness = random.random()/3, giving a random number of uniform probability between 0 and 0.3 recurring. The higher the random number the more drunk the Drunk is, where 0 would lead the Drunk directly to their home. 
   * the “unitsMoveBy” variable, on line 88 of the drunkframework.py, where unitsMoveBy = random.randint(1,5), giving a random integer between 1 and 5. 
 * The names of the txt and png files can be changed in lines 283 and 301 respectively.
+
+---
+
+[< Assessment 2:](https://hannahwh05.github.io/Assessment2)
+   
+   [> Development and Issues](https://hannahwh05.github.io/development)
+
+   [> Potential Additions to the Model](https://hannahwh05.github.io/additions)
