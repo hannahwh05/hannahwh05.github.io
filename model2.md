@@ -31,9 +31,10 @@ When the model has met the "stopping condition", where all the drunks have arriv
 
 ![Home](hannahwh05.github.io/images/home.png)
 
+*Figure 3a: End of Simulation* 
+
 ![Density](hannahwh05.github.io/images/density.png)
 
-*Figure 3a: End of Simulation* 
 *Figure 3b: Density Map of Drunks*
 
 #### Program Description
