@@ -1,4 +1,4 @@
-### [Website](https://hannahwh05.github.io/) to show Assignment 1 work in [GEOG5990M_Programming](https://github.com/hannahwh05/GEOG5990M_Programming)
+### [Website](https://hannahwh05.github.io/) to show Assignment 1 and 2 work in [GEOG5990M_Programming](https://github.com/hannahwh05/GEOG5990M_Programming)
 
 Website is published with Jekyll using Minimal theme:
 https://pages-themes.github.io/minimal/
