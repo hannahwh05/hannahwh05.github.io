@@ -15,5 +15,10 @@ When defining the way my drunk moved, I wanted to make it clear that their movem
 This version was working for a while during the simulation but then it would break, due to “list index out of range”. Ultimately the drunks would take a very long time to reach their homes as they wondered aimlessly around the environment. I thought of a way of giving them direction by creating a function that would calculate the distance to their homes. At first, I just input the pub door coordinates but thought that the drunks would need constant updates on their distance to make it home. As a result, I changed this to general X and Y coordinates that could be input. I then defined the current and potential distances within the stumble function. This made the drunks movements less randomised, so I introduced a “randomness” variable to the stumble function, making them appear more drunk. 
 
 When updating Spyder to 3.3.2 I found that despite the backend being set to inline, an additional blank window, called Figure 1, was being created every time I ran the model. When matplotlib.pyplot is mentioned in the code it creates a popup window. To resolve this I have added the following lines to a couple of point in the code so that plots are printed to the console:
+
+```
+shell = IPython.get_ipython()
+shell.enable_matplotlib(gui='inline')
+```
  
 Due to time constraints and difficulties adjusting specific colours in the environment, I was unable to overlay the density map on top of the animation. 
