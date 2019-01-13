@@ -13,5 +13,7 @@ Finally, the code could be further optimised to improve run time, for instance, 
 ---
 
 [< Assessment 2:](https://hannahwh05.github.io/Assessment2)
+
 [< The Model](https://hannahwh05.github.io/model2)
+
 [< Development and Issues](https://hannahwh05.github.io/development)
