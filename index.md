@@ -18,7 +18,7 @@ Follow the links below to see more information.
   * ### [The Model](https://hannahwh05.github.io/model)
   * ### [Practicals](https://hannahwh05.github.io/Practicals)
 
-* ### [Assessment 2:](https://hannahwh05.github.io/Assessment1)
+* ### [Assessment 2:](https://hannahwh05.github.io/Assessment2)
   * ### [The Model](https://hannahwh05.github.io/model2)
   * ### [Development and Issues](https://hannahwh05.github.io/development)
-  * ### [Potential Additions to the Model](https://hannahwh05.github.io/development)
+  * ### [Potential Additions to the Model](https://hannahwh05.github.io/additions)
