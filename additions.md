@@ -9,3 +9,9 @@ To improve the model, a custom colormap could be created to form discrete colour
 Additionally, distractions could be added along the way, e.g. a chip van, so they wander off course and don’t head straight home.  Pathways could be added so the drunks have to walk in certain ways. 
 
 Finally, the code could be further optimised to improve run time, for instance, by only calculating distances for moves that are actually made rather than for all potential moves. However, the length of run time has not been an issue at present. 
+
+---
+
+[< Assessment 2:](https://hannahwh05.github.io/Assessment2)
+[< The Model](https://hannahwh05.github.io/model2)
+[< Development and Issues](https://hannahwh05.github.io/development)
