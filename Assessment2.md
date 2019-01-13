@@ -13,3 +13,14 @@ The model simulates a town of 25 drunk people trying to “stumble” back to th
 It was developed in Spyder 3.3.2 (Python 3.7) and the following documentation describes how to run it from this IDE. 
 
 There are no further plans for development of this program. 
+
+---
+
+
+   [> The Model](https://hannahwh05.github.io/model2)
+
+   [> Development and Issues](https://hannahwh05.github.io/development)
+
+   [> Potential Additions to the Model](https://hannahwh05.github.io/additions)
+   
+   
