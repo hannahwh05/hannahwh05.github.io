@@ -22,3 +22,11 @@ shell.enable_matplotlib(gui='inline')
 ```
  
 Due to time constraints and difficulties adjusting specific colours in the environment, I was unable to overlay the density map on top of the animation. 
+
+---
+
+[< Assessment 2:](https://hannahwh05.github.io/Assessment2)
+
+   [< The Model](https://hannahwh05.github.io/model2)
+
+   [> Potential Additions to the Model](https://hannahwh05.github.io/additions)
